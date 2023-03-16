@@ -1,4 +1,4 @@
-This repository contains the Matlab codes used for the paper "Computer-assisted proof of shear-induced chaos in stochastically perturbed Hopf systems", 
+This repository contains the Matlab codes used for the paper ["Computer-assisted proof of shear-induced chaos in stochastically perturbed Hopf systems"](https://arxiv.org/abs/2101.01491), 
 by M. Breden and M. Engel. 
 
 All the computer-assisted parts of the proof discussed in the paper can be reproduced by running script_proof.m. The proofs make crucial usage of
